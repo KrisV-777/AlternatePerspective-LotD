@@ -1,3 +1,5 @@
+.vscode/
 meta.ini
 *.zip
 *.7z
+*.pex
